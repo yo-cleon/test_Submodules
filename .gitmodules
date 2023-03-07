@@ -1,0 +1,6 @@
+[submodule "ConexionFirebird"]
+	path = ConexionFirebird
+	url = git@github.com:yo-cleon/ConexionFirebird.git
+[submodule "ConexionFirebird2"]
+	path = ConexionFirebird2
+	url = git@github.com:yo-cleon/ConexionFirebird2.git
